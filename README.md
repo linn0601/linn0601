@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Linn.
+### 你好哦 👋. I'm Linn.是一枚后端工程师，专注学习中.
 
 [![](https://raw.githubusercontent.com/linn0601/linn0601/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/linn0601/linn0601/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/linn0601/linn0601/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
